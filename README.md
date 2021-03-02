@@ -13,10 +13,10 @@
 - 重新编译执行，即可完整体验整个小程序功能
 
 ## 项目源码下载
-- [源码下载](https://github.com/TencentCloudBase/Cloudbase-Examples/releases/download/WeChat/tcb-demo-namecard-pro.zip)
+- [源码下载](https://github.com/TCloudBase/WXAPP-NameCard)
 
 ## 实战作者
-- 腾讯云·云开发团队（[bestony](https://github.com/bestony)、[lidongyx](https://github.com/lidongyx)、[Zira](https://github.com/wasfzxt)）
+- 腾讯云·云开发团队（[bestony](https://github.com/bestony)、[Zira](https://github.com/wasfzxt)）
 
 ## 参考文档
 
