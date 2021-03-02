@@ -1,0 +1,12 @@
+<view class="container">
+  <view class="idcard-item" wx:for="{{list}}" wx:key="index" ontap="getDetail" data-i="{{index}}">
+    <view class="idcard-image">
+      <image mode="aspectFill" src="{{item.cover}}"></image>
+    </view>
+    <view class="idcard-detail">
+      <view class="title">名字: {{item.name || item.en_name}}</view>
+      <view class="content">{{item.company || item.en_company}}</view>
+      <view class="content">{{item.position || item.en_position}}</view>
+    </view>
+  </view>
+</view>
